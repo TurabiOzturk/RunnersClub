@@ -3,8 +3,8 @@
 _RunnersClub_ is a web application designed to empower runners with the following features:
 
 **Seamless club discovery:** Rungroops implements a robust search engine that facilitates runners in effortlessly finding running clubs within their proximity. The user interface is streamlined for an intuitive search experience.
-**Streamlined event management:** Leveraging Rungroops, event organizers can effortlessly schedule and manage running events. The platform also provides a user-friendly registration system for participants, streamlining the entire event lifecycle.
-**Fostered runner community:** Rungroops fosters a thriving community of runners by facilitating connections and promoting interaction.
+
+**Streamlined event management:** Leveraging Rungroops, runners can effortlessly schedule and manage running events. The platform also provides a user-friendly registration system for participants, streamlining the entire event lifecycle.
 
 ## Getting Started
 
